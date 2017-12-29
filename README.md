@@ -12,7 +12,7 @@ l: Change a vehicles status.
 a: Lists all vehicles whose status is 'available'.
 q: Quits the VRM 
 
-## How to compile
+## How to run
 
 Simple compile and run VehicleRentalManager
 
